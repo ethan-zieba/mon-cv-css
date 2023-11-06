@@ -99,7 +99,7 @@ input {
 
 svg { font-size: 36px; color: #1b2630}
 
-<!--The idea for this menu showing up when a button is clicked came from many instagram css accounts that I follow, such as @cssiseasy, @coding.stella or @coding_dev_ -->
+<!-- The idea for this menu showing up when a button is clicked came from many instagram css accounts that I follow, such as @cssiseasy, @coding.stella or @coding_dev_ -->
 <!-- I have, of course, modified their original creations to suit my needs -->
 <!-- The principle here is to turn the opacity of the elements of the menu to 1 when the main button is first clicked, and make them travel with a cubic-bezier transition -->
 .round-button{
